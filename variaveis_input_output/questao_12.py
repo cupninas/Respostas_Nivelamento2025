@@ -3,4 +3,5 @@
 # Convertendo km para float
 
 km = float(input("Coloque um valor em km: "))
+
 print(km * 0.621)
