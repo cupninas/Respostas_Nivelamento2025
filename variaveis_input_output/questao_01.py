@@ -1,4 +1,4 @@
-#Crie um algoritmo que receba um nome e exiba uma mensagem de boas vindas.
+# Crie um algoritmo que receba um nome e exiba uma mensagem de boas vindas.
 
 nome = input('informe o seu nome:')
 
