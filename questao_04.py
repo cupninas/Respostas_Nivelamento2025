@@ -1,3 +1,4 @@
+#Receba dois números e exiba a soma, subtração, multiplicação e divisão entre eles. 
 num1 = int(input("Digite o primeiro valor: "))
 num2 = int(input("Digire o segundo valor:"))
 
