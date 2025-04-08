@@ -4,5 +4,5 @@
 valor = float(input("Digite o valor do produto: "))
 desconto = float(input("Digite o valor do desconto: "))
 
-resultado = valor - (valor * (desconto/100))
+resultado = valor - (valor * (desconto / 100))
 print(resultado)
