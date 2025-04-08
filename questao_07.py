@@ -1,4 +1,5 @@
 #Questão 7
+#Crie um programa que recebe 5 valores, calcule a média aritmética entre eles e mostre o resultado. 
 a = int(input("Insira o primeiro valor: "))
 b = int(input("Insira o segundo valor: "))
 c = int(input("Insira o terceiro valor: "))
