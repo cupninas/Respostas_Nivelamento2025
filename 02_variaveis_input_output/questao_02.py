@@ -1,10 +1,10 @@
 # Crie um programa que recebe dois valores e depois troca os valores entre eles. 
 
-a = int(input('informe um valor:'))
-b = int(input('informe outro valor:'))
+valor1 = int(input('informe um valor:'))
+valor2 = int(input('informe outro valor:'))
 
-c = b  
-b = a 
-a = c 
+auxiliar = valor2
+valor2 = valor1
+valor1 = auxiliar
 
-print(f'A = {a}\nB = {b}')
+print(f'A = {valor1}\nB = {valor2}')
