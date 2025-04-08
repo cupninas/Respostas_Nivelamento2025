@@ -1,5 +1,5 @@
-#Faça um algoritmo que recebe o número total de eleitores de um município, o valor de votos nulos, brancos e válidos. 
-#Ao final, calcule o percentual de cada e mostre na tela.
+# Faça um algoritmo que recebe o número total de eleitores de um município, o valor de votos nulos, brancos e válidos. 
+# Ao final, calcule o percentual de cada e mostre na tela.
 
 total_votos = int(input('informe o total de votantes:'))
 votos_nulos = int(input('informe o total de votos nulos:'))
