@@ -1,5 +1,5 @@
 # Crie uma variável para armazenar o raio de um círculo. Calcule e exiba a área do círculo e o comprimento da circunferência.
-#Crie uma variável para armazenar o raio de uma circunferência. Calcule e exiba a área dessa circunferência.
+
 raio = float(input('Digite o raio: '))
 pi = 3.14
 
