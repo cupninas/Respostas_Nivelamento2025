@@ -1,5 +1,5 @@
-# LEIA O ANO ATUAL E O ANO DE NASCIMENTO DE UMA PESSOA. ESCREVA NA TELA UMA MENSAGEM SE ELA JÁ TEM 
-# IDADE TIRAR A CNH OU NÃO.
+# Leia o ano atual e o ano de nascimento de uma pessoa. 
+# Escreva na tela uma mensagem se ela já tem idade para tirar a CNH ou não.
 
 ano_atual = int(input('Informe o ano atual:'))
 ano_nascimento = int(input('Informe o seu ano de nascimento:'))
