@@ -1,6 +1,6 @@
-#Uma transportadora possui três tipos de entrega: normal, rápida e expressa.
-#Cada entrega possui uma taxa por km: normal - R$1.00, rápida - R$1.50 e expressa - R$2.00.
-#Faça um programa que receba a distância da entrega, o tipo de entrega que será utilizada e exiba o valor do frete. 
+# Uma transportadora possui três tipos de entrega: normal, rápida e expressa.
+# Cada entrega possui uma taxa por km: normal - R$1.00, rápida - R$1.50 e expressa - R$2.00.
+# Faça um programa que receba a distância da entrega, o tipo de entrega que será utilizada e exiba o valor do frete. 
 
 
 print("Bem-vindo!")
