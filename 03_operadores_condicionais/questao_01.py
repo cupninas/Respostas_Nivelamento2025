@@ -1,4 +1,4 @@
-#Peça um número ao usuário, verifique se esse número está entre 0 e 100 e exiba o resultado.
+# Peça um número ao usuário, verifique se esse número está entre 0 e 100 e exiba o resultado.
 
 num = int(input("Digite um número: "))
 
