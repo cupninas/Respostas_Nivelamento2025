@@ -1,6 +1,6 @@
-# FAÇA UM PROGRAMA QUE RECEBA 3 NÚMEROS (ABATES, MORTES E ASSISTÊNCIAS) DE UM JOGADOR E DIGA SE O SALDO
-# DELE NO JOGO (SALDO = (ABATES + ASSISTÊNCIAS) - MORTES) É POSITIVO (MAIOR QUE 0) OU NEGATIVO 
-# (MENOR QUE 0) OU NEUTRO (IGUAL A 0).
+# Faça um programa que receba 3 números (abates, mortes e assistências) de um jogador 
+# e diga se o saldo dele no jogo (saldo = (abates + assitências) - mortes) é 
+# positivo (maior que 0) ou negativo (menor que 0) ou neutro (igual a 0).
 
 abates = int(input('informe o número de abates:'))
 mortes = int(input('informe o número de mortes:'))
