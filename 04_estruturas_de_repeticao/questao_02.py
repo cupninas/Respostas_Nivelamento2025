@@ -1,0 +1,9 @@
+# FAÇA UM PROGRAMA QUE RECEBE UM VALOR “N” E FAZ UMA CONTAGEM REGRESSIVA DE UMA BOMBA ATÉ 0. AO CHEGAR EM 0, 
+# MOSTRE UMA MENSAGEM DE “KABUM!”, TODOS OS VALORES DEVEM APARECER NA TELA ATÉ A BOMBA EXPLODIR.
+
+valor = int(input('informe um valor:'))
+
+for i in range(valor, -1, -1):
+    print(i)
+    
+print('KABUM!')
