@@ -3,5 +3,5 @@
 x = int(input('informe um valor:'))
 y = int(input('informe outro valor:'))
 
-for i in range(1,x**y): 
+for i in range(0,x**y+1): 
     print(i)
